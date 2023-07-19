@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, Welcome To My Github Profile 👋 👋 👋</h1>
 
-<h4 align="center">I'm Erdem, I'm working on .Net & Frontend & OpenCV development. I am sharing my projects here.</h5>
+<h4 align="center">I'm Erdem, <br> I'm working on  Machine Learning & OpenCV & .Net Core & FrontEnd development. <br> I am sharing my projects here.</h5>
 
 <h3 align="center">Connect with me:</h3>
 
